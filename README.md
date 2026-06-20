@@ -34,9 +34,9 @@ Atualmente estou buscando um estágio para aprimorar o que estou tanto estudando
 
 ## 📊 Estatísticas GitHub
 
-![Alessandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=zAlex69&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
+![Alessandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=zAlex69&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zAlex69)](https://github.com/zAlex69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zAlex69)](https://github.com/zAlex69/github-readme-statstheme=merko)
 
 
 </a>
