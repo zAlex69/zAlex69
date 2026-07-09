@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil! 👀
 
-☝🏻 **Buscando crescimento no Front-end | JavaScript, CSS & Html**
+☝🏻 **Buscando crescimento no Front-end, mas mirando no Full-Stack | JavaScript, CSS & Html**
 
 🎓 **Gestão da T.I na Unisul - Em andamento.**
 Atualmente estou buscando um estágio para aprimorar o que estou tanto estudando. Pratico recorrentemente em projetos que desafiem meus aprendizados.
